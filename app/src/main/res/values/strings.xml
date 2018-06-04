@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Database 4</string>
+
+    <string-array name="sort_names">
+        <item>Berdasarkan Nama, dari alphabet awal ke akhir</item>
+        <item>Berdasarkan Nama, dari alphabet akhir ke awal</item>
+        <item>Berdasarkan Jenis Kelamin</item>
+        <item>Berdasarkan Alamat, dari alphabet awal ke akhir</item>
+        <item>Berdasarkan Alamat, dari alphabet akhir ke awal</item>
+    </string-array>
+
+    <string-array name="sort_clauses">
+        <item>nama ASC</item>
+        <item>nama DESC</item>
+        <item>jekel, name ASC</item>
+        <item>alamat ASC</item>
+        <item>alamat DESC</item>
+    </string-array>
+    <string name="title_activity_detail_form">DetailForm</string>
+    <string name="form_nama">Nama</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="laki_laki">Laki-Laki</string>
+
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+
+        android:key="sort_order"
+        android:title="Urutkan Data"
+
+        android:summary="Memilih urutkan data berdasarkan kriteria"
+
+        android:entries="@array/sort_names"
+        android:entryValues="@array/sort_clauses"
+
+        android:dialogTitle="Choose a sort order" />
+
+</PreferenceScreen>
